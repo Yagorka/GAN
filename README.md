@@ -1,1 +1,1 @@
-# GAN
+# INFOGAN
